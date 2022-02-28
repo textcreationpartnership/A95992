@@ -1,0 +1,571 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Counsel for youth; delivered in two sermons upon Psalm 119. vers 9. Preached by H.V. Rector of Alhallows-Honie-lane.</title>
+            <author>U. H.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 90 KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95992</idno>
+            <idno type="STC">Wing V6</idno>
+            <idno type="STC">Thomason E590_9</idno>
+            <idno type="STC">ESTC R206331</idno>
+            <idno type="EEBO-CITATION">99865503</idno>
+            <idno type="PROQUEST">99865503</idno>
+            <idno type="VID">117748</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95992)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117748)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 90:E590[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Counsel for youth; delivered in two sermons upon Psalm 119. vers 9. Preached by H.V. Rector of Alhallows-Honie-lane.</title>
+                  <author>U. H.</author>
+               </titleStmt>
+               <extent>[4], 34, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by William Du-gard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>in the Year M DC L. [1650]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Running title: The young-man's counsellor.</note>
+                  <note>Annotations on Thomason copy: "Jan: 29 1649"; the imprint date has been crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+               <term>Young men --  Conduct of life --  Sermons --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117748:1" rendition="simple:additions"/>
+            <p>COUNSEL FOR YOUTH; Delivered in two Sermons upon <hi>Pſalm</hi> 119. <hi>verſ</hi> 9. Preached by <hi>H.V.</hi> Rector of <hi>Alhallows-Honie-lane.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Eccleſ. 12.1.</hi>
+               </bibl> Remember now thy Creator in the daies of thy Youth, while the evil daies com not, nor the years draw nigh, when thou ſhalt ſaie, I have no pleaſure in them.</q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>William Du-gard,</hi> in the Year MDCL.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:117748:2"/>
+            <pb facs="tcp:117748:2"/>
+            <head>To my loving <hi>Pariſhioners,</hi> and other Friends in <hi>London,</hi> or elſwhere.</head>
+            <opener>
+               <salute>Dear Friends!</salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>
+               </hi> Here preſent you with the Sum of two Sermons, not long ſince preached, and delivered by word of mouth to you of my own charge. If anie enquire what put mee upon this ſubject, the entrance of theſe Sermons will reſolv you in that particular. If anie ask, what moved mee to put it to the Preſs, take my anſwer now: It's not anie by end, it's not anie high thought of anie thing that is my own in this diſcourſ: But I conſider,</p>
+            <p n="1">
+               <hi>1.</hi> The Truths are Divine and Sound.</p>
+            <p n="2">
+               <hi>2.</hi> The handling of them is ſeaſonable in theſe daies, wherein there is ſo much miſcarriage of youth, and (I would I had not need to ſaie it) ſo much neglect in them that have the overſight of Youth. In theſe Sermons both are concern<g ref="char:EOLhyphen"/>ed; Youth at the firſt hand, and others by neceſſarie con<g ref="char:EOLhyphen"/>ſequence.</p>
+            <p n="3">
+               <hi>3.</hi> I know that words have wings, and flie away, almoſt aſſoon as they are uttered; but it's true, <hi>Litera ſcripta ma<g ref="char:EOLhyphen"/>net.</hi>
+               <pb facs="tcp:117748:3"/> If anie forget what was ſpoken, by repareing to the Book their memories will bee holpen.</p>
+            <p n="4">
+               <hi>4.</hi> I have alſo manie Friends that heard not theſe Ser<g ref="char:EOLhyphen"/>mons preached, whoſe ſpiritual good yet I deſire alſo to fur<g ref="char:EOLhyphen"/>ther: and to tranſſcribe ſo manie copies, it would bee tedious. I thought it therfore the more compendious waie (though more coſtlie) to put it to the Preſs upon mine own charge, and ſo to have the whole Impreſsion at my own diſpoſe, by means whereof I may give copies abroad as I ſhall ſee cauſ.</p>
+            <p>And ſo yee have the clear reaſon of what is don: it's in<g ref="char:EOLhyphen"/>tended out of love to you, and your good my aim in it.</p>
+            <p>Concerning the Sermons themſelvs I will not ſaie anie thing; onely,</p>
+            <p n="1">
+               <hi>1.</hi> If anie bee leſs acquainted with buſineſs of this naeture, I give them to underſtand, that what I ſaie to Young Men, I mean it alſo to Young Women and Maidens, following therein the cuſtom of the Scripture, which ordinarily, (eſpe<g ref="char:EOLhyphen"/>cially in things which equally concern both) comprehend's both ſexes under the Male, as I might ſhew you in manie ex<g ref="char:EOLhyphen"/>amples, if it were needful.</p>
+            <p n="2">
+               <hi>2.</hi> Theſe Sermons contein matter ſutable to old and young, I deſire you, each of you to take your proper portions, and not (as it's too frequent in the world) everie man to get inſight into other men's duties, while they neglect to know their own.</p>
+            <p>To conclude, if yee will accept, read, applie, and make uſe of what is here preſented to you, and the God of heaven ſhal bee pleas'd to make it profitable by his bleſsing, I have my aim and end: And ſo (committing you, your ſouls and bodies, and your waies to the protection and guidance of the Almightie and onely wiſe God) I reſt ever,</p>
+            <closer>
+               <signed>Your Servant for Jeſus-ſake <hi>H.V.</hi>
+               </signed>
+               <dateline>
+                  <hi>From my Studie</hi> 
+                  <date>Dec. <hi>20. 1649.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:117748:3"/>
+            <head>THE YOUNG-MAN'S COUNSELLOR.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>PSAL. 119.9.</hi>
+                  </bibl>
+                  <p>Wherewithall ſhall a young man cleanſ his waie? by taking heed thereto according to Thy Word.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>He ſad report of the miſcarriage of many young men now of late, and ſom of my own charge, whoſe caſe I much pitie, hath taken mee off from my wonted courſ, that, by making more particular addreſs to young men, I might prevent the miſcarriage of others. And if it ſhal pleaſ God to give ſuch ſucceſs to my endeavours, as that I may bee an inſtrument for the reclame<g ref="char:EOLhyphen"/>ing or ſafe-guarding of any, I ſhall bee ſo far from repenting of my attempt, that I ſhall readily confeſs my ſelf bound to the God of Heaven, for that Hee hath made my endeavours in any degree ſucceſsful in this kinde. If, on the other ſide, I ſhall have occaſion to complain with the Prophet, <hi>I have labored in vain, I have ſpent my ſtrength for nought,</hi>
+               <note place="margin">Iſai. 49.4.</note> 
+               <hi>and in vain</hi> (which God forbid) yet my comfort is this, that faithful
+<pb n="2" facs="tcp:117748:4"/> endeavours ſhall not want acceptance. I ſhall not doubt to ſaie with the ſame Prophet,<note place="margin">Ibid.</note> 
+               <hi>Yet my judgment is with the Lord, and my work with my God:</hi> I reſt upon that encourage<g ref="char:EOLhyphen"/>ment, which the Apoſtle gives, whereby hee aſſure's us, that <hi>God will reward every man according to his own labor,</hi>
+               <note place="margin">
+                  <hi>1 Cor. 3.8.</hi> de Iſid. ad Eugen. l. <hi>4.</hi> c. <hi>2.</hi>
+               </note> 
+               <hi>Secundùm opus, non ſecundùm proventum; according to his labor, not according to the iſſue of his labor,</hi> as S<hi rend="sup">t</hi> 
+               <hi>Bernard</hi> obſerv's.</p>
+            <p>And, if any of you have paſſed this ſlipperie age, and atteined to riper years, let it not bee grievous to you, that I now bend my ſpeech to young men, as if the buſineſs did not concern you: young men are alſo a part of my charge, and our bleſſed Saviour give's command to S<hi rend="sup">t</hi> 
+               <hi>Peter,</hi>
+               <note place="margin">Joh. 21.16.</note> and in him, to us all, that are his ſervants in the miniſterie, not one<g ref="char:EOLhyphen"/>ly to <hi>Feed his ſheep,</hi>
+               <note place="margin">ver. 15.</note> but, <hi>his Lambs</hi> alſo. Yea, they are a part of my charge not to bee ſleighted: for upon the wel-doing of them, that are in the flower of their youth, depend's the hope of future ages. And, while I ſpeak to them, yee alſo may hear ſomwhat, which may, by the bleſſing of God, prove to the advantage of your ſouls.</p>
+            <p>But, (to leav further prefaces, and to ſet upon the Text, which (to this purpoſe) I have undertaken to handle) it ſeem's the Prophet enter'd this meditation, while hee was yet a youth in King <hi>Saul</hi>'s Court, envied of many, and ex<g ref="char:EOLhyphen"/>poſed to many temptations. Beeing therefore ſenſible of the temptations, vanitie, incircumſpection and unſtaiedneſs of that age, and conſidering withal, that yet this was his prime, wherein God eſpecially require's to bee ſerved, hee deſire's a redreſſer of his life and manners. And therefore finding himſelf to bee puzzled thereabout, hee break's out of his continued meditation into this exclameing interrogative Apoſtrophe, <hi>Wherewithall ſhall a young man cleanſ his waie?</hi> whereto the anſwer is inſtantly annexed, <hi>By taking heed there<g ref="char:EOLhyphen"/>to according to Thy Word.</hi>
+            </p>
+            <p>Whether hee make's this demand to God, and receive's the anſwer from God; or whether hee communicate's with himſelf, as S<hi rend="sup">t</hi> 
+               <hi>Auſtin</hi> doth probably anſwer, <hi>Interrogat ſe, re<g ref="char:EOLhyphen"/>ſpondet ſibi, Hee ask's himſelf, and anſwer's himſelf,</hi> I hold it not much material; for both the demand, and the anſwer was inſpired into him by the Spirit of God.</p>
+            <pb n="3" facs="tcp:117748:4"/>
+            <p>The kinde of ſpeech, yee ſee, is by waie of queſtion and anſwer, which is Rhetorical and vehement.</p>
+            <p>The matter enquired with ſuch earneſtneſs, is the refor<g ref="char:EOLhyphen"/>mation of life and manners.</p>
+            <p>The <hi>Emphaſis</hi> is in the word, <hi>young man.</hi>
+            </p>
+            <p>In the demand, wee have, 1. The act, <hi>redreſs,</hi> or <hi>cleanſ.</hi> 2. The Object, <hi>waie.</hi> 3. The perſon concerned, <hi>young man:</hi> concerning all which the queſtion is moved, <hi>Wherewithall ſhall,</hi> &amp;c.</p>
+            <p>The anſwer is plain and eaſie, <hi>By taking heed thereto according to Thy Word.</hi>
+            </p>
+            <p>The whole verſ may bee reſolved into theſe propoſitions, or points of doctrine.</p>
+            <p n="1">1. <hi>Youth is, and young mens waies are naturally corrupt.</hi>
+            </p>
+            <p n="2">2. <hi>The waies of godlie young men are no better then they ſhould bee.</hi>
+            </p>
+            <p n="3">3. <hi>They had need to bee reformed.</hi>
+            </p>
+            <p n="4">4. <hi>Godlie men endeavour the reformation of their waies.</hi>
+            </p>
+            <p n="5">5. <hi>It's an hard thing for young men to reform their waies.</hi>
+            </p>
+            <p n="6">6. <hi>Yet it's a poſsible thing for them to do it.</hi>
+            </p>
+            <p n="7">7. <hi>Man know's not of himſelf, how to do it, but</hi>
+            </p>
+            <p n="8">8. <hi>God is readie to teach us, if wee conſult with him.</hi>
+            </p>
+            <p n="9">9. <hi>The waie to cleanſ or reform our waies, is by taking heed there<g ref="char:EOLhyphen"/>to, according to God's Word.</hi>
+            </p>
+            <p>Of theſe I ſhall ſpeak in order, beeing more brief in ſom of them, while I inſiſt more largely upon others.</p>
+            <p>Propoſ. 1. <hi>Youth is, and young mens waies are, naturally cor<g ref="char:EOLhyphen"/>rupt.</hi> It's plain in the Text; for what need were there elſ for young mens waies to bee cleanſed? nothing need's clean<g ref="char:EOLhyphen"/>ſing, but that which is foul or corrupt; And this God him<g ref="char:EOLhyphen"/>ſelf, who made us, and therefore know's us, doth atteſt, whiles hee ſaie's of man,<note place="margin">Gen. 8.21.</note> 
+               <hi>The imagination of man's heart is evil from his youth.</hi> Hence it was, that <hi>Solon</hi>'s Laws did not admit a young man to Magiſtracie, though hee were otherwiſe of good abilities. The <hi>Romans</hi> admitted none to the Se<g ref="char:EOLhyphen"/>nate, till hee was five and twentie years old. The Canons of our Church admitted none to the order of <hi>Deacon,</hi> the firſt degree of Miniſterie,<note place="margin">Numb. 8.24. Act. 7.23.</note> till hee was three and twentie years of age. The law of God, concerning the <hi>Levites,</hi> admitted none to miniſter, till hee was five and twentie years old. <hi>Moſes</hi> was
+<pb n="4" facs="tcp:117748:5"/> ful fourtie years old, when hee firſt viſited his brethren. Chriſt himſelf was full thirtie years old,<note place="margin">Luke 3.23.</note> when Hee firſt ſet upon His publick Miniſterie: and the like is ſaid of <hi>John</hi> the <hi>Baptiſt.</hi> All theſe laws and examples caſt a kinde of im<g ref="char:EOLhyphen"/>putation upon youth: eſpecially if yee look into the reaſon,<note place="margin">Philip. 5.</note> which <hi>Tullie</hi> give's of the <hi>Roman</hi> law, <hi>Cùm grandiorem aetatem ad Conſulatum conſtituebant, temeritatem adoleſcentiae vere<g ref="char:EOLhyphen"/>bantur: The Romans requiring more ripeneſs of years in them, that were to bee admitted to Magiſtracie, feared the raſhneſs of youth.</hi> And wee hear,<note place="margin">Eccleſ. 10.16.</note> what the wiſe man ſaie's, <hi>Wo to thee, O land, when thy King is a childe.</hi> And it is to bee obſerved to this purpoſe,<note place="margin">2 Chron. 10.8.13.16.</note> what danger befell <hi>Rehoboam,</hi> by following the counſel of the young men, no leſs then the revolt of the ten Tribes. To this purpoſe it is alſo, that <hi>Plutarch</hi> ſaie's, that Youth hath more need of a Governour, then childhood. And therefore, when <hi>Nero</hi> told <hi>Seneca,</hi> that ſuch an old do<g ref="char:EOLhyphen"/>ting fellow, as hee, ſhould bee ſet over children, the <hi>Philo<g ref="char:EOLhyphen"/>ſopher</hi> anſwered wiſely, <hi>Magis regenda eſt fervida adoleſcentia: Hot youth hath more need to bee governed.</hi> And therefore wiſ<g ref="char:EOLhyphen"/>dom in the book of the Proverbs give's her counſel ſtil to young men, ever ſaying, <hi>My ſon, my ſon:</hi> And <hi>Salomon</hi> put's young men in minde of the laſt judgment, in that, ſhewing them to bee vitious. <hi>Rejoice, O young man,</hi> ſaie's hee, <hi>in thy youth,</hi>
+               <note place="margin">Eccleſ. 11.9.</note> &amp;c. <hi>but know, that for theſe things God will bring thee to judgment.</hi>
+            </p>
+            <p>And, if I ſhould make a catalogue of the corruptions of youth, haply, I ſhould offend the younger ſort (though in what I ſhall ſaie, my aim is not to ſhame or diſ-hearten, but by ſetting their danger before their eies, to warn and arm them againſt it) I am ſure, it would take up a great deal of time, to do it largely. Take it therefore briefly.</p>
+            <p n="1">
+               <note place="margin">1 Tim. 2.22.</note>1. Hear the Apoſtle adviſing his ſcholar <hi>Timothie, Flie the luſts of youth:</hi> then youth hath its luſts; and, mee think's <hi>Plutarch,</hi> though a <hi>Pagan,</hi> make's a good comment upon that text, ſaying, <hi>Juventus variis cupiditatibus obnoxia,</hi> &amp;c. <hi>Youth is prone to divers luſts, to anger, to deſire of rule, to ambition, to intem<g ref="char:EOLhyphen"/>perance about meats, drinks, apparel, and bodilie pleaſures.</hi>
+            </p>
+            <p n="2">2. Theſe luſts rage and rule in youth, nor can they ſo ea<g ref="char:EOLhyphen"/>ſily withſtand or curb them: and therefore the <hi>Tragoedian</hi>
+               <pb n="5" facs="tcp:117748:5"/> ſaie's well. <hi>Juvenile vitium eſt, regere non poſſe impetum. It's a vice of young men, that they cannot curb the violence of luſts;</hi> but with an headlong proneneſs they run into ſin, that waie, which lie's open before them, like a water-courſ.</p>
+            <p n="3">3. They are inconſult, without knowledg and counſel, they want that experience, which old age hath, and ſo are quickly deceived, and (which is lamentable) <hi>pejora juvenes facilè praecepta audiunt; they are more prone to follow bad counſel, then good.</hi> And this doth <hi>Solomon</hi> ſhew,<note place="margin">Prov. 7.7, 13, 14, 21, 22, 23.</note> in that young man ſoon carried away with the enticing ſpeeches of the ſtrange woman, and following her, as an Ox to the ſlaughter, or as a fool to the correction of the ſtocks, till a dart ſtrike thorough his liver, as a bird haſteth to the ſnare, not know<g ref="char:EOLhyphen"/>ing that it is for his life. And this wee ſee too uſual in wo<g ref="char:EOLhyphen"/>ful experience, that many young men ſtop their ears againſt their parents and maſters, yea, and of the Miniſters of God, adviſing and admoniſhing them in love for their good, but their ears are open to the evil counſels of thoſe, who by flattering words endeavour to draw them to deſtructive courſes.</p>
+            <p n="4">4. When they know little or nothing, they are yet prone to bee high-conceited of themſelvs, ſo that they think them<g ref="char:EOLhyphen"/>ſelvs wiſer then the aged, and too good to bee taught and admoniſhed by any.</p>
+            <p n="5">5. Mark what <hi>Salomon</hi> ſaie's;<note place="margin">Prov. 22.15.</note> 
+               <hi>Fooliſhneſs is bound up in the heart of a childe:</hi> See, here is then an whole bundle of follie.</p>
+            <p n="6">6. Hear him again. <hi>Childhood and youth are vanitie:</hi>
+               <note place="margin">Eccleſ. 11.10.</note> hee ſaie's not, Vanitie is in them, but the age it ſelf is vanitie, as compact and made up of vanitie.</p>
+            <p n="7">7. And, as one note's well, the word <hi>redreſs</hi> or <hi>cleanſ,</hi> here uſed, is a metaphor, ſignifying the clearing of glaſs, which, though it bee clean, will yet ſoon gather filth, even in the ſun-beams, and of it ſelf: which note's the great corruption of this age; eſpecially, if wee have regard to our nativitie, which is corrupt and unclean, as <hi>David</hi> confeſſe's,<note place="margin">Pſal. 51.5.</note> 
+               <hi>In ſin I was born.</hi>
+            </p>
+            <p>To conclude, in a word, this age (youth, I mean) may well bee compared to a gnat, that, leaving the wine, delight's in the lees; to a maid, having the green ſickneſs, who de<g ref="char:EOLhyphen"/>lights
+<pb n="6" facs="tcp:117748:6"/> in claie, and things of il juice, rather then in whol<g ref="char:EOLhyphen"/>ſom food; to an unbroken colt for unſtaiedneſs; to a lion for wrath; to a ſhee-bear for crueltie; to an ape for imita<g ref="char:EOLhyphen"/>tion of every evil or new-fangled faſhion; to a mad dog for indiſcretion; for wantonneſs to a goat; and to a ſwine for filthineſs.</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>ſe</hi> 1. The thought of this is profitable for young men, three waies:</p>
+            <p n="1">1. It may bring them into a diſlike of this age: It's the thought of many, that this age is the happieſt, and theſe the beſt daies, that ever they ſhall ſee; but, upon all the fore<g ref="char:EOLhyphen"/>going grounds it is evident, that wee may well judg it the moſt miſerable,<note place="margin">Eccleſ. 12.1.</note> becauſ more ſinful. It's true, that <hi>Solomon</hi> call's old age <hi>evil daies,</hi> but that is onely in regard of thoſe bodilie inconveniences, which attend old age; but the danger of youth is far greater, in regard of it's proneneſs to ſin, which is of far more dangerous conſequence.</p>
+            <p n="2">2. It ſhould make young men the more circumſpect and watchful over their waies. It's the wiſdom of a citie be<g ref="char:EOLhyphen"/>ſieged, to double their guards and make ſtronger defenſes, where, on their own parts, they finde greateſt weakneſs, and greateſt oppoſition from the beſiegers. Take knowledg of it, dear young men, and believ it, there is no age more ſtrongly aſſailed by Satan and corruption, no age more weak to make reſiſtance, then is youth. Bee perſuaded therefore to look to your ſelvs, and to ſtand upon your watch-tower: See and obſerv by what means others have been baned, and ſenſ your ſelvs againſt the ſame.</p>
+            <p n="1">
+               <note place="margin">Jer. 5.23.</note>1. Conſider what the Prophet ſaie's, <hi>Death is com up into our windows, and hath entered into our palaces:</hi> the bodilie eies are the windows of the ſoul, ſin enter's thereby, and take's poſſeſſion of the ſoul: how many have been ruined by the eie?<note place="margin">2 Sam. 11.</note> yea, how have wee all been undon by it? <hi>David</hi> looked and luſted, and committed adulterie, which was attended with murder, and that of a faithful <hi>
+                  <g ref="char:V">Ʋ</g>riah,</hi> whence followed a world of miſchief.<note place="margin">Joſh. 7.21.</note> Hear <hi>Achan</hi>'s confeſſion, <hi>When I ſaw, among the ſpoils, a goodlie Babyloniſh garment, and two hundred ſhekels of ſilver, and a wedg of gold of fiftie ſhekels weight, I coveted and took them:</hi>
+               <note place="margin">ver. 24.25.</note> and as <hi>hee</hi> by this <hi>had troubled Iſraël,</hi>
+               <pb n="7" facs="tcp:117748:6"/> ſo for it <hi>God troubled him;</hi> it was the ruine of himſelf and his familie. <hi>Eve</hi> ſaw, and liked, and perſuaded her husband,<note place="margin">Gen. 3.6. Rom. 5.12.</note> and they did eat, and hence followed ruine to all mankinde: Oh therefore bee adviſed to watch over your eies, ſuffer them not to bee roving about undue objects, or not unduly: gaze not upon the beautie of women, if yee deſire to bee fenſed againſt uncleanneſs: in this caſe imitate holie <hi>Job,</hi> who <hi>made a Covenant with his eies,</hi> and thereupon inferred,<note place="margin">Job 31.1.</note> 
+               <hi>why ſhould I look upon a maid?</hi> if yee would bee fenſed againſt drunkenneſs, follow <hi>Solomon</hi>'s advice: <hi>Look not upon the wine,</hi>
+               <note place="margin">Prov. 23.31.</note> 
+               <hi>when it is red, when it give's his color in the cup,</hi> &amp;c. yea, in all kindes, let it bee your care to praie with <hi>David,</hi>
+               <note place="margin">Pſal. 119.37.</note> 
+               <hi>Turn away my eies from beholding vanitie.</hi>
+            </p>
+            <p n="2">2. Many have been ruined by the ear, while they have liſtened to deſtructive counſels of wicked counſellors, to flat<g ref="char:EOLhyphen"/>tering words of lewd women:<note place="margin">Gen. 3.</note> ſo was <hi>Eve</hi> ruined by hearken<g ref="char:EOLhyphen"/>ing to the divel in the ſerpent.<note place="margin">Prov. 7.</note> So was that fore-mentioned young man undon, by giving ear to the wanton allurements of that ſtrange woman. Bee perſuaded therefore, I beſeech you, to watch over your ears, to keep them ſhut againſt ſuch wicked ſolicitations: It's <hi>Solomon</hi>'s advice, <hi>My ſon,</hi>
+               <note place="margin">Prov. 1.10.</note> 
+               <hi>if ſinners entice thee, conſent thou not.</hi> Let not the fair ſpeeches of any ſeduce you, nor their pretenſes of friendſhip: were they never ſo neer, or ſeemed they never ſo friendlie, reject them: rather reject their friendſhip, then accept of their counſel. When, our Saviour having foretold his paſſion, <hi>Peter</hi> ſaid to him, <hi>Bee it far from thee, Lord,</hi>
+               <note place="margin">Matth. 16.21.22.23.</note> what hear's hee from his Maſter? <hi>Get thee behinde mee, Satan,</hi> hee own's him not now, as his diſciple, but take's knowledg of Satan making uſe of his tongue to diſhearten him from that great work, which hee was to perform, tending ſo much to the glorie of his Father, and the Salvation of the world: So let it bee your care: Look from evil counſellers, as bearing the ſemblance of friends, and conſider them, as inſtruments employed by Satan to draw you from the waie of obedience, to the waie of ſin, and hearken not to them, becauſ they ſeem friends, but ſtop your ears againſt their wicked counſels, becauſ herein Satan by them ſeek's the ruine of your pretious ſouls.</p>
+            <p n="3">3. Many have been undon by evil companie: and how can
+<pb n="8" facs="tcp:117748:7"/> it well bee otherwiſe? One ſcabbed ſheep marre's an whole flock:<note place="margin">1 Cor. 5.6. Prov. 7.</note> 
+               <hi>A little leaven ſowre's the whole lump: Who can touch pitch and not bee defiled?</hi> here yee ſhall hear provocations to evil, encouragements in evil, diſcouragements from good, reviling of goodneſs: and who know's not, what power ſuch ſpeeches have to corrupt? here yee ſhall ſee examples of evil, and yee know, how powerful examples are to draw us away: oh then bee choice of your com<g ref="char:EOLhyphen"/>panie; bee warie to what companions yee join your ſelvs: ſaie,<note place="margin">Pſal. 119.115.</note> as <hi>David. Away from mee, yee wicked, I will keep the com<g ref="char:EOLhyphen"/>mandements of my God:</hi> It's <hi>Solomon's</hi> advice, as a fenſ againſt drunkenneſs and riot,<note place="margin">Prov. 23.20.</note> 
+               <hi>Bee not among wine-bibbers and riotous eaters of fleſh:</hi> would yee not prove profane ſwearers? ſhun the companie of ſuch; and ſo in all other kindes. And if yee would fear God and walk on in the waie of God's fear, imitate <hi>David,</hi>
+               <note place="margin">Pſal. 119.63.</note> whoſe profeſsion it was, <hi>I am a companion of all them that fear Thee, and keep Thy testimonies.</hi> In the compa<g ref="char:EOLhyphen"/>nie of ſuch thou ſhalt hear exhortations to good, and en<g ref="char:EOLhyphen"/>couragements in good, and examples of good; and theſe yee ſhall finde ſingularly uſefull.</p>
+            <p n="3">3. By how much more corrupt youth is, by ſo much more bee inceſſant in prayer, and earneſt with God to watch over thee,<note place="margin">Pſal. 127.1.</note> and to fenſ thee againſt the corruptions of youth: It's true, that the Pſalmiſt ſaie's, <hi>Except the Lord watch the citie, the watchman waketh but in vain:</hi> It hold's true in the buſineſs in hand: That it is your dutie, to watch over your ſelvs, yee have alreadie heard; but know that all your care will bee wholly fruſtrate, and to no purpoſe, except the watch<g ref="char:EOLhyphen"/>man of Iſraël doth watch for you and with you: Oh then ceaſ not to follow God with your praiers for the ob<g ref="char:EOLhyphen"/>teining of this grace: whether the Maſters of the families, wherein yee live, bee careful to praie to God with you and for you, or no: do not yee forget morning and eve<g ref="char:EOLhyphen"/>ning to commend your ſelvs to God by praier, that by the watchful eie of his gratious providence, yee may bee pre<g ref="char:EOLhyphen"/>ſerved from thoſe miſcarriages, to which yee are prone of your ſelvs, or may bee ſolicited by Satan, and his in<g ref="char:EOLhyphen"/>ſtruments.</p>
+            <p n="2">2. The conſideration of this corruption of youth is ſin<g ref="char:EOLhyphen"/>gularly
+<pb n="9" facs="tcp:117748:7"/> profitable to them that have out-lived that age, and that alſo three waies:</p>
+            <p n="1">1. To teach them to look back to their youth, and to take knowledg of the ſins of it, and the vices with which their youth hath been tainted: not to bee tickled with joie at the remembrance of them: It's thus with too many, as with men, who in their younger times have delighted in hunting, whom therefore yee ſhall ſee, (beeing after<g ref="char:EOLhyphen"/>wards, through age, not able to follow the game, yet) to ſit upon a ſtyle, and to look after the dogs, and crie after them. So too many (though through age they cannot fol<g ref="char:EOLhyphen"/>low the vices, to which in their youth they were addicted, yet) glorie in and boaſt of the mad pranks of their youth: this ſhew's plainly, that they have not ſo much left their ſins, as their ſins have left them: Far bee it therefore from you, that it ſhould bee ſo with you; rather think of the ſins of your youth, to bee filled with grief and horror for the ſame, and to repent of them, and to follow God with that requeſt of <hi>David, Remember not the ſins of my youth.</hi>
+               <note place="margin">Pſal. 25.6.</note>
+            </p>
+            <p n="2">2. To teach them to bee the more thankful to God, if they have been kept from thoſe vitious courſes, which they have ſeen in others: Others have been drunkards, riotous per<g ref="char:EOLhyphen"/>ſons, neglecters of Gods Word and Ordinances, profaners of the Lord's Daie, untruſtie to their Maſters; hath it not been ſo with you? ſacrifice not to your own nets and yarns, take it not to your ſelvs, as if yee were able of your ſelvs to abſtein from ſuch vices; for it's no ſuch matter: it's God that hath kept you from them: let him therefore have the praiſ of it, and give thanks to his Name; for it's a great fa<g ref="char:EOLhyphen"/>vor; and the greater, by how much there are ſo many, with whom God hath not dealt ſo mercifully.</p>
+            <p>But bee thankful alſo for the means by which yee have been kept from ſuch miſdemeanours: thank God for the ſeveritie of your parents, maſters, teachers; for the ſeveritie of the Laws, by which yee have been reſtreined from them: thank God, if hee hath kept you in order by the fear of hel<g ref="char:EOLhyphen"/>torments: but eſpecially, if yee can finde, that God hath ſeaſoned your younger years with his grace, and enabled you to abſtein from ſin out of an hatred of ſin, loathing ſin
+<pb n="10" facs="tcp:117748:8"/> as it is ſin, and a violation of God's righteous law, now give praiſ to God eſpecially, as it is an incomparable favor.</p>
+            <p n="3">3. To teach them to bee the more circumſpect over thoſe young ones committed to their charge: Parents over their children, maſters over their ſervants, teachers over their ſcholars, guardians over their pupils: bee not wanting in your care for them, remember their dangers in regard of that ſlipperie age in which they are: and out of pitie watch over them; remember what it is, wherewith yee are put in truſt, not more the bodies then the pretious ſouls of your children, ſervants, ſcholars, pupils, even the ſouls, for which Chriſt did ſhed his pretious bloud. Know yee, that are parents, that your children are God's Children, and yee are put in truſt with them, as if ſom ſubject ſhould bee put in truſt with a King's children: and think how yee will bee able to anſwer it, if they ſhall miſcarrie through your fault, or by your means: and this is no leſs true in regard of any other inferiors, ſervants, ſcholars, pupils. If it bee but that they are other mens children, that are put into your hands, think how oft the life of the parents hang's up<g ref="char:EOLhyphen"/>on the wel-doing of their children: and how can yee hold up your heads before them, if they ſhall miſcarrie by your means? think, how il yee would take it, if yee ſhall commit your children to the care of other men, and by their negligence they ſhall miſcarrie, and bee ruined; and now yee know that rule of equitie, <hi>What yee would that men ſhould do to you,</hi>
+               <note place="margin">Matth. 7.12.</note> 
+               <hi>do yee the ſame to them.</hi> Yea conſider, that the welfare of the Common-wealth for the future depend's upon the well-ordering of theſe young ones for the preſent, what little thanks can yee exſpect from your Countrie, if yee ſhall neglect your charge? Finally, think what a ſad thing it will bee to behold the miſcarriage and undoing of comlie youths, of good hopes, of good abi<g ref="char:EOLhyphen"/>lities, well bred, well educated. In all names I beſeech you to look to your charge.</p>
+            <p>Bee not wanting in the uſe of any means for their good, and for the preventing of their miſcarriage: It's a true ſaying, <hi>Qui non prohibet, quando poteſt, jubet: Hee, that forbid's not, when hee may, command's;</hi> and wee may juſtly bee held
+<pb n="11" facs="tcp:117748:8"/> to do that miſchief, which wee may hinder, and do not: hee is guiltie of the death of a childe, that may hinder him from falling into the fire, if hee doth not: It's no leſs true in this particular: oh therefore let not your care bee wanting in this kinde: prie into their carriage, obſerv their behaviour, and their companie which they haunt, bee not unneceſſarily abſent from them, let your eie, as much as may bee, bee continually upon them: many hopefull youths have been undon for want of this care: If yee ſee them given to any evil courſes or evil companie, admoniſh them of the danger of them: If words will not prevail, adde ſeaſonable and neceſſarie correction: Many are wrought upon with ſeveritie, with whom lenitie and gentleneſs pre<g ref="char:EOLhyphen"/>vail's not: yet let it bee don with moderation, not as ty<g ref="char:EOLhyphen"/>rants, but as fathers: through exceſſive ſeveritie come's no ſmal danger; alienation of hearts from their ſuperiors, hardneſs of heart againſt means uſed towards them for their good, yea, oft hereupon they grow deſperate.</p>
+            <p>At leaſt take heed of poiſoning them, and perverting them: an ill buſineſs this will prove; what is it other, then with your own hands to caſt them into hell? This yee may bee in danger to do, either by putting them, by your commands or allurements, upon any evil projects, or by your lewd and wicked example. Take heed of both, as yee love theſe young ones thus committed to your charge, and as yee love your ſelvs. Put them not upon any evil by your com<g ref="char:EOLhyphen"/>mands, or allurements: What they do upon your command or perſuaſion, yee ſhall juſtly bee accounted to have done. <hi>Joab</hi> at the appointment of <hi>David</hi> place's <hi>
+                  <g ref="char:V">Ʋ</g>riah</hi> in a place of danger, in the war againſt Rabbath,<note place="margin">2 Sam. 11.15, 17.</note> and cauſe's the reſt to retire, and this occaſioned the death of <hi>
+                  <g ref="char:V">Ʋ</g>riah,</hi> and now not <hi>Joab</hi> ſo much as <hi>David</hi> is charged herewith: God ſaie's to <hi>David</hi> by the Prophet <hi>Nathan, Thou haſt ſlain <g ref="char:V">Ʋ</g>riah with the ſword of the children of Ammon.</hi>
+               <note place="margin">2 Sam. 12.9.</note> Take heed of giving them evil example of drunkenneſs, ſwearing, profaning of the Lord's daie, contemt of God's Miniſters: how forcible examples of ſuperiors are to draw inferiors to evil, wee cannot bee ignorant: though yee give them never ſo good counſel to the contrarie, they are yet more readie to regard
+<pb n="12" facs="tcp:117748:9"/> what yee do, then what yee ſaie, they believ their eies rather then their ears; they readily think, that, if you were in good earneſt in your counſels, yee would not do the con<g ref="char:EOLhyphen"/>trarie: bee cautious therefore what examples yee give them: youth of it ſelf is prone to evil, there is no need that yee ſhould put them forward to it either by word or example.</p>
+            <p>Hitherto yee have heard of the corruption of youth, which is the firſt point. But it may bee ſaid, that that which is ſpoken of youth's corruption, is to bee under<g ref="char:EOLhyphen"/>ſtood of thoſe young perſons, that have not lived under the light of the Goſpel; but for us young men, wee hope, there is no ſuch thing in us. But hear what follow's.</p>
+            <p>Propoſ. 2. <hi>The waies even of godlie young men are no bet<g ref="char:EOLhyphen"/>ter then they ſhould bee.</hi>
+            </p>
+            <p n="1">1. See the text in hand, in which (it's paſt peradventure) <hi>David</hi> had an eie to himſelf, and ſpake of his own youth, as needing redreſs or cleanſing, and then it follow's, that it was not right and ſtreight, as it ſhould bee.</p>
+            <p n="2">
+               <note place="margin">Pſal. 25.6.</note>2. Mark that requeſt of <hi>David,</hi> which hee made to God, <hi>Remember not the ſins of my youth:</hi> then it follow's, that even in his youth hee had ſins, which needed forgiveneſs.</p>
+            <p n="3">3. Conſider that warning which S<hi rend="sup">t</hi> 
+               <hi>Paul</hi> gave to his ſcholar <hi>Timothie,</hi>
+               <note place="margin">2 Tim. 2.22.</note> 
+               <hi>Flie the luſts of youth:</hi> but that admoni<g ref="char:EOLhyphen"/>tion had been in vain and to no purpoſe, if hee had been obnoxious to no ſuch things: and yet ſaie's S<hi rend="sup">t</hi> 
+               <hi>Bernard</hi> well of this <hi>Timothie, Give mee but one Timothie in theſe daies, and if hee will eat gold, hee ſhall have it:</hi> So eminent an example hee was of mortification, that S<hi rend="sup">t</hi> 
+               <hi>Paul</hi> was fain to take him off from the ſtrictneſs of his courſ, giving him that advice,<note place="margin">2 Tim. 5.23.</note> 
+               <hi>Drink no longer water, but take a little wine for thy ſtomacks ſake, and thine often infirmities.</hi> If then ſo holie a young man, as was <hi>Timothie,</hi> was obnoxious to luſts, what young man can bee free?</p>
+            <p>And this point is not to bee wondred at,</p>
+            <p n="1">1. Becauſ even in God's deareſt children there remain's natural corruption, which in youth doth moſt ſhew it ſelf, affection then beeing grounded and ſtrong, and reaſon raw.</p>
+            <pb n="13" facs="tcp:117748:9"/>
+            <p n="2">2. Becauſ the Divel is moſt ſtudious, and hath an eſpecial affection to entrap this age, as beeing that, in which God re<g ref="char:EOLhyphen"/>quire's eſpecially to bee ſerved.</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>ſe.</hi> The conſideration hereof ſerv's briefly to ſet a further edg upon the foregoing exhortations.</p>
+            <p n="1">1. Let thoſe that have young ones committed to their truſt, bee thee more careful for them, and watchful over them; Let them not ſaie, my children, my ſervants are pi<g ref="char:EOLhyphen"/>ous and godlie, they trulie fear God, and therefore I may bee the more aſſured of them, that they will not miſcarrie them<g ref="char:EOLhyphen"/>ſelvs. Yee may bee deceived in your judgment of them: Hy<g ref="char:EOLhyphen"/>pocriſie is ſpun of a fine thread,<note place="margin">2 Cor. 11. 2 Tim. 3.5.</note> 
+               <hi>the divel can turn himſelf into an Angle of light:</hi> They that <hi>have a form of godlineſs,</hi> may <hi>denie the power of it:</hi> Whatſoever therefore their ſhew's and preten<g ref="char:EOLhyphen"/>ſes are, yet intermit not your care for them, and watchful<g ref="char:EOLhyphen"/>neſs over them: yea, though they bee trulie pious and godlie, yet they are ſanctified but in part; in the beſt there are re<g ref="char:EOLhyphen"/>mainders of corruption, whence miſcarriages are prone to iſſue. And the divel is buſie to aſſail them with his temptati<g ref="char:EOLhyphen"/>ons, and now it's no wonder, if they bee ſomtimes overborn by ſuch an adverſarie. Though therefore they bee never ſo pious and godlie, yet continue your care for them, and bee watchful over them: Though <hi>Timothie</hi> was ſo eminently pi<g ref="char:EOLhyphen"/>ous, yet S<hi rend="sup">t</hi>. <hi>Paul</hi> forbear's not to admoniſh him,<note place="margin">2 Tim. 2.22.</note> to <hi>flie the luſts of Youth.</hi>
+            </p>
+            <p n="2">2. Let young men, all young men, bee exhorted to bee watchful and circumſpect over themſelvs and their waies. Wax not ſecure upon this preſumtion, that God hath wrought the work of grace in you in truth, as if therefore yee were ſafe-guarded againſt all miſdemeanours; for</p>
+            <p n="1">1. Yee may bee deceived in the judgment of your ſelvs: true grace hath its counterfeit: yee may think yee have true faith, when it's but the ſtinking weed of preſumtion, and ſo for other graces: and it's a ſhrewd ſigne, that it is ſo, if upon this ground yee ſhall neglect your watch over your waies; and if it bee ſo, know, that yee may, and cannot but fall away totally and finally, ſo that town and countrie ſhall ring of your apoſtaſie, and yee may becom unſavorie ſalt, fit for the dunghil: It was ſo with King <hi>Joaſh</hi> of <hi>Judah,</hi> who
+<pb n="14" facs="tcp:117748:10"/> for all his fair ſhew's all the daies of <hi>Jehoiada,</hi> fell yet after<g ref="char:EOLhyphen"/>wards to idolatrie at the ſolicitation of his Princes,<note place="margin">2 Chro. 24.2.4.17.18.2. Act. 8 13.18.19.23.</note> and murdered <hi>Zachariah</hi> the ſon of <hi>Jehoiada.</hi> It was ſo with <hi>Simon Magus,</hi> who beleived and was baptized, and yet afterwards, offered to buie the gifts of the Holie Ghoſt, and was affirmed of St. <hi>Peter</hi> to bee in the gall of bitterneſs, and the bond of iniquitie.<note place="margin">Col. 4.14.</note> It was ſo with <hi>Demas,</hi> whom St. <hi>Paul</hi> reckoned among the Saints, and yet afterwards the ſame Apoſtle com<g ref="char:EOLhyphen"/>plain's,<note place="margin">2 Tim. 4.10.</note> that hee <hi>had forſaken them, and embraced this preſent world.</hi> And ſo wee have ſeen it to bee with others, whoſe Sun hath ſet at noon, and their light ended in darkneſs; and ſo it may bee with you for all your fair ſhew's, and therefore bee not ſecure, but look to your ſelvs.</p>
+            <p n="2">2. If yee finde the work of grace in your ſelvs in truth, yet it's but in part, and there remain's corruption in you in part: in the beſt, there is fleſh and ſpirit, old and new man, grace and corruption,<note place="margin">Gen. 25.21.23</note> as <hi>Iacob</hi> and <hi>Eſau</hi> in the womb of <hi>Rebeccah,</hi> ſtruggling each with other; bee not therefore ſecure, but maintein your watch. It's here obſervable, that to them, <hi>in whom God hath wrought to will and to do,</hi>
+               <note place="margin">Phil. 2.12.13.</note> 
+               <hi>even of his own good plea<g ref="char:EOLhyphen"/>ſure,</hi> the Apoſtle yet give's advice, <hi>to work out their ſalvation with fear and trembling:</hi>
+               <note place="margin">Rom. 11.29.</note> and no wonder, for (bee it granted that, <hi>the gifts and calling of God are without repentance,</hi> &amp; conſequently that the work of grace beeing begun in truth, yee are ſecured againſt total and final apoſtaſie; yet, (if yee look not the bet<g ref="char:EOLhyphen"/>ter to your ſelvs) yee may fall fouly into ſcandalous ſins, and ſo may loſe grace in ſom degrees, and deprive your ſelvs for a time of the comforts of grace, and diſhonor God, and ſhame your holie profeſſion, as manie have don; which is no ſmall inconvenience: Oh therefore for the avoiding of it, watch over your ſelvs, according to the foregoing directi<g ref="char:EOLhyphen"/>ons: And, finding anie miſcarriage, of which yee are guil<g ref="char:EOLhyphen"/>tie, lie not in it, but by renewed repentance amend your waies. But that follow's.</p>
+            <p>Propoſ. 3. <hi>Young men muſt cleanſ or redreſs their waies.</hi> It's clear in the Text; for it's here made the ſubject of <hi>David's</hi> queſtion, <hi>Wherewithal ſhall a young man cleanſ his waie?</hi> And ſo it is here neceſſarily taken for granted: And to this pur<g ref="char:EOLhyphen"/>poſe is <hi>Solomon's</hi> advice;<note place="margin">Eccleſ. 12.1</note> 
+               <hi>Remember now thy Creätor in the daies of
+<pb n="15" facs="tcp:117748:10"/> thy youth:</hi> And that of our bleſſed Saviour,<note place="margin">Mar. 10.</note> 
+               <hi>Suffer little chil<g ref="char:EOLhyphen"/>dren to com unto mee:</hi> And the forementioned advice of S. <hi>Paul</hi> to his Scholar <hi>Timothie, flie the luſts of Youth.</hi>
+               <note place="margin">2 Tim. 2.22.</note>
+            </p>
+            <p>
+               <hi>Solomon,</hi> in that place of <hi>Eccleſiaſtes,</hi> uſeth a reaſon to per<g ref="char:EOLhyphen"/>ſuade young men to this care. God is <hi>thy Creätor,</hi>
+               <note place="margin">Pro. 16.4.</note> and there<g ref="char:EOLhyphen"/>fore thou art made for his glorie: for <hi>hee made all things for himſelf.</hi> But in a different manner, all other things immedi<g ref="char:EOLhyphen"/>ately for man, and mediately for himſelf, but hee made man for himſelf and his ſervice immediately: And now what thinkeſt thou? that thou maieſt ſerv thy ſelf, and thy luſts, and the divel, and the world in the flowr of thy Youth, and with thy ſtrength, and put off the ſervice of God till old age, when thou art weak and way-ward, and haſt enough to do to ſtruggle with the infirmities of age? Oh no! Hee will have thee to ſerv him all the daies of thy life, from thy cradle to thy grave; all is due to him by the right of creätion; and think how unſeemlie it is (as S. <hi>Baſil</hi> uſes the compariſon to another purpoſe) <hi>excipere Regem reliquijs menſae,</hi> to enter<g ref="char:EOLhyphen"/>tein a King with other men's leavings? how much more un<g ref="char:EOLhyphen"/>ſeemlie is it to give the divel's leavings to God? To ſerv the divel with the firſt, and beſt of thy ſtrength, and to think of ſerving the God that made thee, when thou art fit for nothing?</p>
+            <p>
+               <hi>Object.</hi> A young Saint, and an old Divel.</p>
+            <p>
+               <hi>Anſ.</hi> Hee was no man, but a divel incarnate, that deviſed that ſaying. It's true, ſom that have begun betimes, do not perſiſt and perſevere, but, <hi>begining in the Spirit,</hi>
+               <note place="margin">Gal. 3.</note> 
+               <hi>are perfected in the fleſh;</hi> the more is the pitie: But yet this ſhould not diſheart<g ref="char:EOLhyphen"/>en us from earlie begining, but ſhould make us more watch<g ref="char:EOLhyphen"/>ful over our ſelvs, that wee may perſevere and hold it out, and grace our beginings with a comfortable and pious con<g ref="char:EOLhyphen"/>cluſion.</p>
+            <p>
+               <hi>Object.</hi> Manie a ragged colt make's a good horſ: And manie an unhappie youth make's a good man: How manie are there, that have ſpent the time of their youth prophanely, ſom Tumblers, ſom Players, ſom Poëts, ſom ſwaggering Souldiers, who yet have at laſt proved honeſt men, and good Preachers?</p>
+            <p>
+               <hi>Anſ.</hi> I grant that ſom wicked young men have proved
+<pb n="16" facs="tcp:117748:11"/> good in their age: It's true, God's mercie is not tied to times;<note place="margin">Luke. 23.</note> hee can convert the theef at the gallowes, as hee did <hi>that theef on the croſs.</hi> But ſhall this animate us to ſpend the flowr of our youth leudely in hope of God's mercie? This were too high and deſperate preſumtion; and the argu<g ref="char:EOLhyphen"/>ment exceeding fooliſh: For it is a ſure rule, <hi>Apoſſe ad eſſe non valet argumentum:</hi> God can, therefore hee will, is a fond kinde of arguing. I would bee loath to hazzard my ſalvati<g ref="char:EOLhyphen"/>on upon ſo nice a point. This procraſtination of repentance and amendment, when wee are ſtirred up thereto, is a ſhrewd ſigne, that wee are in a damnable condition, and hardly ever like to mend: Here it hold's true. <hi>Qui non eſt hodie, cras minùs aptus erit. Hee that is indiſpoſed to the work of repentance to daie, will likely bee more indiſpoſed to morrow.</hi>
+            </p>
+            <p>And, whereas you allege ſom Tumblers, ſom Poëts, ſom Players, ſom ſwaggering Souldiers, have proved honeſt men and good Preachers; bee not too haſtie, Preachers perhaps they have proved, but not manie good Preachers; and you muſt com back with honeſt men too; for a Preacher and an honeſt man are not all one; but grant this alſo, one ſwal<g ref="char:EOLhyphen"/>low make's not a ſummer; from one or two particulars to infer a general concluſion, is abſur'd, ſince ſuch innumera<g ref="char:EOLhyphen"/>ble companies run the contrarie waie. But, if any, that have ſpent their younger time wickedly and leudely, have proved true converts, and good Preachers, they wiſh that they had never lived ſo wickedly: It had been much better for them<g ref="char:EOLhyphen"/>ſelvs and for the Church.</p>
+            <p n="1">1. They, for the moſt part, ſmel ſtill of the liquor, with which they were firſt ſeaſoned: Examin your converts.</p>
+            <p n="2">2. They cannot reprove ſin ſo ſtrongly, and ſo fervently, as others, who have not been ſo wicked in former times: their own former wickednes, coming to their remembrance, ſtop's their mouths.</p>
+            <p n="3">3. Nor can they ſo ſeverely puniſh the ſins of thoſe youths, that are too openly ſeen to offend in the ſame kindes, as they have don, rather they are friends to them.</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>ſe.</hi> Let this exhort young men to ſet themſelvs to the reformation of their lives in the time of their youth, and de<g ref="char:EOLhyphen"/>fer it not to another time. I ſaie to you, young men, in the
+<pb n="17" facs="tcp:117748:11"/> words of the <hi>Pſalmiſt, To daie if yee will hear God's voice,</hi>
+               <note place="margin">Pſal. 95.78.</note> 
+               <hi>harden not your hearts,</hi> I beſeech you to imitate <hi>David,</hi>
+               <note place="margin">Pſal. 119.60.</note> who ſaid of himſelf, <hi>I made haſte, and delaied not, to keep thy righteous judg<g ref="char:EOLhyphen"/>ments.</hi>
+            </p>
+            <p n="1">1. Conſider, that the ſervice of youth is ſpecially pleaſing to God. <hi>Aaron's</hi> rod was of an Almond tree,<note place="margin">Num. 17.8.</note> which is the firſt that bloſſom's: God will have his to bee branches of trees of the firſt bloſſoms: God will have the firſt fruits, and the firſt<g ref="char:EOLhyphen"/>born offered unto him.</p>
+            <p n="2">2. Conſider examples, <hi>Timothie, David, Samuel, Joſiah,</hi> en<g ref="char:EOLhyphen"/>tred God's ſervice young: But it's a lamentable thing to ſee, that, for the moſt part, wee begin to bloſſom in Autumn, when the fruit ſhould bee ripe; wee are fain to ſend for the Mini<g ref="char:EOLhyphen"/>ſter, to teach us knowledg, faith, and repentance upon our death-beds, when wee are readie to go to another world. It's true, <hi>Nunquam ſera eſt ad bonos mores via; ſound repentance is ne<g ref="char:EOLhyphen"/>ver late,</hi> but it's as true, that late repentance is ſeldom true: bee yee therefore perſuaded to repent and amend your lives betimes.</p>
+            <p n="3">3. There is nothing more odious, then fruitleſs old age; and how is it likely, that the tree ſhould bear in Autumn, that bloſſom's not in the Spring? That old age ſhould bee other then fruitleſs, except repentance hath been wrought in youth? For youth is as the Spring; therefore bee careful to amend your lives and repent betimes.</p>
+            <p>
+               <hi>Object.</hi> I will rejoice now, while I am young, I ſhall live manie years.</p>
+            <p>
+               <hi>Anſ.</hi> Amend now, while yee are young, elſ yee will bee in danger to offer <hi>Cain's</hi> ſacrifice, a ſacrifice without accepta<g ref="char:EOLhyphen"/>tion; and haply, yee ſhall not have time to repent after<g ref="char:EOLhyphen"/>wards; what if God ſhall anſwer thee, as hee did that rich fool in the Goſpel, <hi>This night ſhall thy ſoul bee taken away?</hi>
+               <note place="margin">Luk. 12.20.</note> It's a true ſaying, <hi>Sperant ſe juvenes diu victuros, ſed inſipienter ſpe<g ref="char:EOLhyphen"/>rant; Young men hope, that they ſhall live long, but they are fools in ſo hoping:</hi> Yee may live to old age, for ſom do ſo, but yee neither are, nor can bee ſure of it; for they are but few, that attein to it; look in your weeklie bills, and ſee how few die of age: Manie are taken away by death in the flowr of youth, and thouſands do not live ſo long.</p>
+            <pb n="18" facs="tcp:117748:12"/>
+            <p n="4">4. Conſider that when young men are diſſolute in their lives, it's a fearful argument of God's wrath readie to fall up<g ref="char:EOLhyphen"/>on a Nation: ſo when the Lord by the Prophet would threa<g ref="char:EOLhyphen"/>ten the deſtruction of <hi>Jeruſalem,</hi>
+               <note place="margin">Iſa. 9.17.</note> hee foretel's, <hi>that hee would not have joie in their young men.</hi>
+            </p>
+            <p>Therefore let parents, on this ground, bee exhorted to nurture their children, and Maſters their ſervants, in the fear of God. When they do amiſs endeavour their reforma<g ref="char:EOLhyphen"/>tion, by grave admonition, and by timelie and ſeaſonable correction, word of admonition beeing ſlighted. Hearken to the advice of <hi>Solomon,</hi> and bee led on by the argument, whereby hee enforceth it,<note place="margin">Pro. 22 6.</note> 
+               <hi>Teach a childe the trade of his waie, and hee ſhall not depart from it, when hee is old:</hi> And the verie Hea<g ref="char:EOLhyphen"/>then man could tell us as much.</p>
+            <p>
+               <hi>Quo ſemel eſt imbuta recens, ſervabit odorem</hi>
+            </p>
+            <p>
+               <hi>Teſta diu.</hi> —</p>
+            <p>
+               <hi>The veſſel will keep that ſavor long, wherewith it is ſeaſoned at the firſt.</hi>
+            </p>
+            <p>But I return to you, young men, for whoſe ſake eſpecially I firſt undertook this task. Manie of you are paſſed <hi>ex ephebis,</hi> yee are not now under government in compariſon; therefore take yee care of your ſelvs, to amend your own lives, while yee are young, (the young man (ſaie's the Text) muſt cleanſ his own waie) for otherwiſe the labor of all others is like to bee fruſtrate.</p>
+            <p n="1">1. Yee will afterwards finde the benefit of it, when yee com to man's eſtate,<note place="margin">Lam. 3.27.</note> or to old age. It's true in this ſenſ, that the Prophet ſaie's. <hi>It's good for a man that he bear the yoak in his youth.</hi> If yee have born the Lord's yoak in your youth, cuſtom will make it the more eaſie to bee born afterwards.</p>
+            <p n="2">2. For the preſent, yee ſhall receiv this comfortable aſſu<g ref="char:EOLhyphen"/>rance by it, that yee are the children of God.</p>
+            <p>For ſo it follow's.</p>
+         </div>
+         <div n="2" type="sermon">
+            <pb n="19" facs="tcp:117748:12"/>
+            <head>THE SECOND SERMON.</head>
+            <p>PRopoſ. 4. <hi>The endeavour of the Reformation of waies is in all God's children, and in them onely.</hi> So it was in <hi>David</hi> here, who therefore inquire's of God,<note place="margin">Pſal. 119.5.</note> concerning this matter for himſelf and you. And wee ſee his wiſh. <hi>Oh that my waies were directed to keep thy Statutes!</hi> Yea,<note place="margin">Pſal. 25.4.5. Pſal. 27.11. Pſal. 143.10. Act. 24.16.</note> how fervently doth hee deſire the guidance and direction of God? <hi>Shew mee thy waie, O Lord, teach mee thy paths; lead mee in thy waie and teach mee. Teach mee thy waie O Lord, and lead mee in thy paths. Teach mee to do thy will.</hi> And ſo in manie other places. And this was S<hi rend="sup">t</hi> 
+               <hi>Paul's</hi> endeavour. <hi>Herein do I exerciſe my ſelf, to have alwaies a conſcience void of offenſ toward's God and toward men.</hi> And ſo is it with all others; there is no childe of God, but hee deſire's, and endeavour's the reformation of his waie; and it cannot otherwiſe bee, that hee ſhould bee in the ſtate of grace; for the firſt grace, which God work's in thoſe that are his, is to will and deſire; ſo that hee is not in the ſtate of grace, that hath not this deſire; this is to bee found in all the regene<g ref="char:EOLhyphen"/>rate, for it's made a mark of him, that is born again:<note place="margin">1 Ioh. 5.18</note> 
+               <hi>Hee that is born of God ſinneth not:</hi> Not that anie man in this life at<g ref="char:EOLhyphen"/>tein's to an eſtate of impeccabilitie, to bee void of ſin. It's the voice of <hi>Solomon</hi> in the old Teſtament, <hi>Who is hee,</hi>
+               <note place="margin">2 Chro. 6.36.</note> 
+               <hi>that live's and ſinneth not?</hi> And of S<hi rend="sup">t</hi> 
+               <hi>James</hi> in the new Teſtament,<note place="margin">Iam. 3.2.</note> 
+               <hi>In manie things wee offend all. Wee, wee all,</hi> and <hi>in manie things:</hi> and of S<hi rend="sup">t</hi> 
+               <hi>Iohn, If wee ſaie that wee have no ſin, wee deceiv our ſelvs,</hi>
+               <note place="margin">1 Ioh. 1.8.</note> 
+               <hi>and the truth is not in us.</hi> But the meaning is, that when God's children ſin, they ſin of infirmitie, not wilfully, but either as they are over-born by Satan's temptations;<note place="margin">Rom. 7.23.19.17.</note> or by <hi>the law of the members rebelling againſt the law of their minde, ſo that they do the evil, which they would not,</hi> and ſo they <hi>do it not, but ſin that dwell's in them,</hi> for they would do well, they deſire and en<g ref="char:EOLhyphen"/>deavour it.</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>ſe.</hi> See here a main difference between a wicked and a godlie man; the wicked man ſin's and make's it his paſtime to do wickedly, it's his exerciſe, his trade, hee doth <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <pb n="20" facs="tcp:117748:13"/> work iniquitie, hee is glad of the opportunitie, hee is diſcontented at anie hinderance:<note place="margin">Iſa. 5.18. 1 King. 25.</note> 
+               <hi>Hee doth draw iniquitie, as with cards of vanitie, and ſin, as with cart-ropes,</hi> hee ſo ſin's, as if with <hi>Ahab,</hi> hee had <hi>ſold himſelf to work wickedneſs:</hi> Satan is his Lord whom hee naturally ſerv's: Of the wicked it's true that our Saviour ſaie's of the <hi>Jews,</hi>
+               <note place="margin">Ioh. 8.44.</note> 
+               <hi>Yee are of your father the di<g ref="char:EOLhyphen"/>vel, and his luſts yee will do.</hi> Thus is it with the wicked, but it's quite contrarie with the children of God; they <hi>ſin</hi> indeed, but they are not workers of iniquitie:<note place="margin">1 Ioh. 39.</note> So ſaie's the Apoſtle, <hi>hee that is born of God ſin's not,</hi> 
+               <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>hee work's not ſin;</hi> though hee ſin's, yet hee would not ſin, hee delight's not in the opportunitie of ſinning, hee is grieved when hee hath ſin<g ref="char:EOLhyphen"/>ned, hee hate's it, and himſelf for it; finding that hee hath by ſin offended God, hee deſire's and endeavour's the reformati<g ref="char:EOLhyphen"/>on of his waie. It's true, wee are all of us ſinners, but if wee would bee able truly to ſaie with <hi>Job,</hi>
+               <note place="margin">Iob. 10.7.</note> 
+               <hi>Lord thou knoweſt that I am not wicked,</hi> let us bear this minde, in reſpect of ſin, not to commit it with greedineſs, but rather to griev, when wee have ſinned, and to deſire and endeavour the reformation of our waies, let not our will and deſire bee cold and idle, but earneſt and induſtrious: As the hungrie perſon caſt's about how hee may get bread, and uſe's all poſſible means to that end, ſo let us (with <hi>David</hi> in the Text) caſt about how, and wherewithall wee may cleanſ our waie, and not fail to uſe all poſſible means to effect it.</p>
+            <p>Propoſ. 5. <hi>It's an hard thing, and buſineſs of great difficultie, for young men to cleanſ their waie, to reform their lives.</hi>
+            </p>
+            <p>It's manifeſt that <hi>David,</hi> in the Text in hand, ſpeak's of it, as ſuch. And (if when a godlie man doth his beſt to reform his life, hee doth yet oft, and manie waies offend, as the A<g ref="char:EOLhyphen"/>poſtle ſaie's,<note place="margin">Iam. 3.2.</note> 
+               <hi>In manie things wee offend all: wee all,</hi> even the beſt of us, and that <hi>in manie things</hi>) it is then as cleer as the Sun, that it is a matter of great difficultie, for a young man to reform his waies. And it's further evident upon theſe grounds.</p>
+            <p n="1">1. Corruption of nature is ſtrong in young men, and evil affections ſettled in them, and <hi>fooliſhneſs bound up in their hearts.</hi>
+               <note place="margin">Pro. 22.15.</note>
+            </p>
+            <p n="2">2. Manie times cuſtom of ſinning hinder's the young man
+<pb n="21" facs="tcp:117748:13"/> from reforming his waies, ſo the Prophet ſaie's of it. <hi>Can the Aethiopian change his skin, and the Leopard his ſpots?</hi>
+               <note place="margin">Jer. 13.23.</note> 
+               <hi>Then may yee do good, that are accuſtomed to do evil.</hi> For it is a true ſaying, <hi>Conſuetudo eſt altera natura, Cuſtom is another nature;</hi> and of na<g ref="char:EOLhyphen"/>ture it's no leſs true that the <hi>Poët</hi> ſaies.</p>
+            <p>
+               <hi>Naturam expellas furcâ licèt, uſque recurret. Drive awaie nature with a pitch-fork, yet it will return.</hi> It muſt then bee neceſſarily granted, that it's an hard thing for young men to reform their waies.</p>
+            <p n="3">3. Remember the four provocations to ſin, which S<hi rend="sub">t</hi> 
+               <hi>Am<g ref="char:EOLhyphen"/>broſe</hi> obſerv's in the Prodigal, which are oft in other young men.</p>
+            <p n="1">1. His portion, which enable's him to the committing of ſin: which if hee hath in his poſſeſſion, now hee is enabled to lewd living; if hee hath it but in hope, even this doth em<g ref="char:EOLhyphen"/>bolden him to wicked courſes.</p>
+            <p n="2">2. His fathers indulgence, by means whereof that is with<g ref="char:EOLhyphen"/>held from him, by which hee ſhould bee curbed, and kept in aw, namely ſeveritie of diſcipline.</p>
+            <p n="3">3. His companie, lewd young men, like himſelf, from whom hee ſhall not hear anie thing, but evil counſel, and en<g ref="char:EOLhyphen"/>couragement to, and in evil, and diſheartnings from the waie of obedience; nor ſee anie thing, but evil example, which hath a ſtrong power to corrupt.</p>
+            <p n="4">4. His youth, in which there is heedleſneſs, and inexperi<g ref="char:EOLhyphen"/>ence: In all which reſpects, it cannot but bee a difficult matter, for young men to reform their waies.</p>
+            <p n="4">4. If wee compare child-hood and youth together, wee ſhall finde, that childe-hood is far more eaſily kept in order, and reſtrained from ſin: for</p>
+            <p n="1">1. The age it ſelf is weak, and leſs acquainted with vice.</p>
+            <p n="2">2. It is fearful, and ſtand's in aw.</p>
+            <p n="3">3. Commonly it is ſpent under ſom <hi>Ariſtarchus,</hi> ſom ſe<g ref="char:EOLhyphen"/>vere and rigid School-maſter.</p>
+            <p>But now, when young men have the reines caſt upon their own necks, wee are far more prone to grow worſ, then bet<g ref="char:EOLhyphen"/>ter. And therefore <hi>David,</hi> conſidering the difficultie of the buſineſs, caſt's about, which waie it may bee effected.</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>ſe.</hi> The thought of this is profitable, both for them,
+<pb n="22" facs="tcp:117748:14"/> that have young ones committed to their care, and for young ones themſelvs.</p>
+            <p n="1">1. For them that have the care of youth committed to them, Parents, Maſters, School-maſters, Guardians: Let the thought of this, move them (in pitie and compaſſion towards the young perſons, with whom they are put in truſt) to bee ſo much the more helpful to them. Conſider, I be<g ref="char:EOLhyphen"/>ſeech you.</p>
+            <p n="1">1. How neceſſarie it is for young ones to reform their waie: Death is an impartiall officer, not ſparing any for their youth: How many young men ſee wee daily taken out of this world? and it's woful to them, and of ſad con<g ref="char:EOLhyphen"/>ſequence, if death ſhall make a divorce between ſoul and bodie, before a divorce bee made between them and their ſins:<note place="margin">Rom. 6.21. Jam. 1.15.</note> 
+               <hi>The iſſue of ſin</hi> (repentance not coming between) <hi>is death:</hi> And <hi>ſin, beeing perfected, bring's forth death,</hi> not onely the firſt death, the perfection of which is the ſeparation of the ſoul from the bodie, but alſo the ſecond death, the per<g ref="char:EOLhyphen"/>fection of which is the caſting of the ſinner both in ſoul and bodie from God the fountain of happineſs, and his excluſion from everlaſting happineſs, then which there is no greater loſs; nay, none equal to it, and the caſting of him into hell and the torments of it, which are endleſs, eaſ<g ref="char:EOLhyphen"/>leſs, and remedileſs,<note place="margin">Mar. 9. Matth. 25.</note> 
+               <hi>where the worm never die's, and the fire never goe's out;</hi> even <hi>utter darkneſs, where is weeping and wailing,</hi> gnaſhing of teeth, and wringing of hands, and all for ever.</p>
+            <p n="2">2. How difficult a task this Reformation of waies is for young men, how many hinderances there are in the wale of it, and how many allurements they have to go on in their ſinful courſes: And in both theſe reſpects bee yee readie to give them an helping hand; do, what lie's in you to reclaim them from their ſins, and ſo to prevent their everlaſting undoing: yee would readily think it your dutie, to prevent any temporarie miſchief towards them in their bodies or eſtates: Know that the ſoul is far more excellent then either eſtate or bodie, and therefore (as yee would ſhew any love unto them) bee ſpecially careful to prevent the ruine of their ſouls, by helping them in this great and difficult buſineſs, the cleanſing of their waies.</p>
+            <pb n="23" facs="tcp:117748:14"/>
+            <p n="2">2. For young men themſelvs, let not this difficultie of cleanſing your waies diſ-hearten you from attempting this buſineſs, let it rather cauſ you more diligently to ſet about it. It's a true ſaying, <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the things are com<g ref="char:EOLhyphen"/>monly more excellent in which there is greater difficultie: the difficultie therefore of this work, and the oppoſition that Satan make's againſt it, argue's the excellencie and uſeful<g ref="char:EOLhyphen"/>neſs of it: I remember a paſſage of our learned <hi>Whitaker,</hi> that it was an evident argument of ſpeciall worth and good<g ref="char:EOLhyphen"/>neſs in <hi>Luther,</hi> that the <hi>Jeſuits</hi> were ſuch bitter enemies to him: as it's an argument of good fruit on the tree, when yee ſee boies throwing ſticks at it; ſo doth it argue the Re<g ref="char:EOLhyphen"/>formation of young mens waies to bee ſpecially excellent and uſeful, that Satan doth ſo much oppoſe it, and caſt ſo many rubs in the waie: By how much therefore Satan ſeek's more to hinder you in the cleanſing of your waies, by ſo much more, beeing young, applie yee your ſelvs to the do<g ref="char:EOLhyphen"/>ing of it. To do eaſie things is no great matter of praiſ, but to effect things in which wee finde difficultie and meet with oppoſition, this is praiſ-worthie, yea, <hi>hoc aliquid eſt voluiſſe, it's ſomthing, that wee would do it:</hi> Yee therefore, that are young men, bee yee perſuaded, the more difficultie there is in it, ſo much the more ſedulouſly to endeavour the cleanſing of your waies: Labor to ſee what is amiſs in them, and uſe your beſt endeavours for the amendment of them. And for your encouragement in this kinde, conſider what follow's. Though it bee difficult, yet</p>
+            <p>Propoſ. 6. <hi>It's poſsible for young men to reform and amend their waies.</hi> It's plain in the text.</p>
+            <p>It's poſſible, I ſaie, but not by your own abilities, nor by the ſtrength of your own free-will; for it's a buſineſs above us; it's true, that the Apoſtle ſaie's,<note place="margin">2 Cor. 3.5.</note> 
+               <hi>Wee have no ſufficiencie as of our ſelvs, ſo much as to think a good thought, all our ſufficiencie is of God.</hi> And, for this particular buſineſs in hand, wee hear what repenting <hi>Ephraim</hi> ſaid, <hi>Turn mee, and I ſhall bee turned;</hi>
+               <note place="margin">Jer. 31. Cant. 1.4.</note> and the Church, <hi>Draw us, and wee will run after thee.</hi> But yet it is poſſible by the help of God's grace, which uſe's not to bee
+<pb n="24" facs="tcp:117748:15"/> wanting to them, that ſet themſelvs conſcionably to the bu<g ref="char:EOLhyphen"/>ſineſſes, which God hath enjoined unto them.</p>
+            <p>And the feaſibleneſs of it appear's in this, that it hath been effected in others, as <hi>David, Timothie,</hi> &amp;c. what others have don, wee may do, by the help of the ſame grace of God, by which they have effected it.</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>ſe</hi> 1. Let us not preſume of our own ſtrength in a buſineſs of this nature, nor ſet up the Reformation of our waies, as if, of our ſelvs, wee were able to effect it, but crave the aid of God: hear what <hi>Jehoſhaphat</hi> ſaid, when <hi>Moab, Edom,</hi> and <hi>Ammon</hi> invaded his Kingdom, and ſo let us ſaie of our ſins, ſetting our ſelvs to the redreſs of our waies, <hi>Wee have no might againſt them,</hi>
+               <note place="margin">2 Chro. 20.12.</note> 
+               <hi>neither do wee know what to do, but our eies are upon thee:</hi> and as <hi>David</hi> went againſt <hi>Goliah,</hi> ſo let us ſet our ſelvs againſt our ſins in the amendment of our waies,<note place="margin">1 Sam. 17.45.</note> 
+               <hi>In the Name of the Lord of Hoſts.</hi> But yet</p>
+            <p n="2">2. Let not the difficultie of this buſineſs diſ-hearten you from attempting it, but let the poſſibilitie of effecting it, animate you to this enterpriſe: were it (as difficult, ſo) im<g ref="char:EOLhyphen"/>poſſible, yee might have ſomwhat to ſaie for your ſelvs, by which to excuſe your ſelvs in the neglect of it: for, though ſom men will attempt things, in which they finde difficultie, yet no wiſe man will attempt impoſſibilities: But, ſince (though it bee difficult, yet) it's poſſible, all excuſe ſhall bee taken away from you, if yee neglect this buſineſs, the very poſſibilitie of it ſhall <hi>ora obturare,</hi> bolt up your mouths, yee ſhall have nothing whereby to apologize for your ſelvs, your ſin will bee out of meaſure ſinful, and your follie unſpeak<g ref="char:EOLhyphen"/>able. If yee, neglecting the ſtudie of the amendment of your waies, periſh, yee may thank, or rather blame your ſelvs,<note place="margin">Hoſ. 13.9.</note> not God: it will bee moſt true, <hi>Perditio tua ex te, Thy destruction is of thy ſelf.</hi> As therefore yee love your ſelvs, I beſeech you, young men, yea, all, to ſet your ſelvs to the cleanſing of your waies. It's difficult, but it's poſſible. It's true,</p>
+            <p>Propoſ. 7. <hi>Man of himſelf know's not how to cleanſ his waie.</hi> And this made <hi>David</hi> to go to God with this enquirie,
+<pb n="25" facs="tcp:117748:15"/> 
+               <hi>Wherewithall ſhall a young man cleanſ his waie?</hi> And it's mani<g ref="char:EOLhyphen"/>feſt, for of our ſelvs wee are ignorant of God's waies: and, as the Prophet ſaid of the Jews, <hi>Wee are wiſe to do evil, but,</hi>
+               <note place="margin">Jer. 4.22.</note> 
+               <hi>to do good, wee have no underſtanding:</hi> wee know how to ſin; how to repent wee know not; beeing like the ſheep, that hath skill to wander, and to go aſtraie, but hath no skill to return to the fold.</p>
+            <p>The ground of this is our fall in <hi>Adam,</hi> whereby it's com to paſs, that wee have defaced that glorious image of God, according to which wee were creäted, and have contracted to our ſelvs the contrarie corruption; and, amongſt the reſt, wee have hereby exſtinguiſht that light, which God had ſet up in our mindes, by which wee were enabled at the firſt, and might ſtill have been able, (had wee not wilfully diſ<g ref="char:EOLhyphen"/>abled our ſelvs,) to know whatſoever conduced to our good, and darkneſs of minde hath com in the room of it, ſo that that deſcription of the Gentiles agree's to us,<note place="margin">Eph. 4.18. 1 Cor. 2.14.</note> 
+               <hi>having our underſtandings darkened,</hi> ſo that <hi>wee neither do, nor can per<g ref="char:EOLhyphen"/>ceiv the things of the ſpirit of God,</hi> and, (though wee have skill in affairs of the world, and skill to ruine our ſelvs by ſin, yet) wee have no skill of our ſelvs, in the things that con<g ref="char:EOLhyphen"/>cern our everlaſting Salvation.</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>ſe</hi> 1. Let us bewail our own ignorance and blinde<g ref="char:EOLhyphen"/>neſs; Oh the heavie complaints that wee hear made by thoſe, that laie under the burden of bodilie blindneſs! how much more cauſ have wee to lament the blindeneſs of our mindes? as it is of far more dreadful conſequence: yea, let us bewail our fall in <hi>Adam,</hi> which hath occaſioned it: think what goodlie gods wee are becom, <hi>ſuch as have eies,</hi>
+               <note place="margin">Pſal. 115.5. Gen. 3.6.</note> 
+               <hi>and ſee not:</hi> where is the Divel's promiſs, <hi>Yee ſhall bee as gods knowing good and evil?</hi> oh what fools were wee to believ that lying ſpirit? wee affected more then was meet for us, and wee have loſt what wee had; wee would bee gods, and wee are hardly men, but beaſts in the ſhape of men; as brute beaſts, without underſtanding: deſperate fools that wee were! oh bee wee aſhamed of it: And, complaining of our natural blindneſs, let us repair to God, with <hi>David</hi>'s enquirie in the text, <hi>Wherewithall ſhall a young man cleanſ his waie?</hi> Lord, wee have don amiſs, our waies are cor<g ref="char:EOLhyphen"/>rupt,
+<pb n="26" facs="tcp:117748:16"/> how ſhall wee redreſs them? And, as <hi>Saul,</hi> afterwards bleſſed <hi>Paul,</hi> let us ſaie to God, <hi>Lord, what wilt thou have thy ſervant to do?</hi>
+               <note place="margin">Act. 9 6. Pſal. 143.10.</note> and ceaſ not to join with <hi>David</hi> in that ſuit, <hi>Teach mee to do Thy will.</hi>
+            </p>
+            <p n="2">2. Let us bee thankful to God for the means of Inſtruction, that wee have, as a written word, ſo men, like our ſelvs, in any meaſure able and willing to ſhew us how to amend our waies: bleſs God for ſuch parents, maſters, miniſters: ap<g ref="char:EOLhyphen"/>plie your ſelvs to them for inſtruction and guidance in a buſineſs of ſuch moment, to your parents, to your maſters, bee<g ref="char:EOLhyphen"/>ing in any meaſure able to direct you: eſpecially let this bee your care in reſpect of the Miniſters of God ſet over you. <hi>Ask the Prieſts concerning the law,</hi>
+               <note place="margin">Hag. 2.11. Mal. 2.7.</note> ſaie's God. And in ano<g ref="char:EOLhyphen"/>ther place, <hi>The Prieſts lips ſhould preſerv knowledg, and they ſhould ſeek the law at his mouth.</hi> In a dark night wee are thankful for a light, and readie to follow it: A blinde man is glad of a guide, and willing to bee guided by him: the miniſters of God are lights to men, that are in the dark, and guides to the blinde: bee yee thankfull to God for them, bee yee readie to ask counſel of them, and no leſs readie to accept of their advice: and, as <hi>Jotham</hi> ad<g ref="char:EOLhyphen"/>viſed the men of Shechem,<note place="margin">Judg. 9.7.</note> 
+               <hi>Hearken to them, that God may hearken to you.</hi>
+            </p>
+            <p n="3">3. If yee have any knowledg of, and inſight into this buſineſs of the amendment of life, bee not proud of it, as if yee had this of your ſelvs, but acknowledg your own natural blindeneſs, and let God have the praiſ of it: it's true of this, that our Saviour ſaie's, <hi>Fleſh and bloud hath not revealed it unto you,</hi>
+               <note place="margin">Matth. 16.17.</note> 
+               <hi>but my father that is in heaven:</hi> and therefore ſaie in this reſpect with the Pſalmiſt, <hi>Non nobis,</hi>
+               <note place="margin">Pſal. 115.1.</note> 
+               <hi>Domine,</hi> &amp;c. <hi>Not to us, O Lord, not to us, but to thy Name give Glorie.</hi>
+            </p>
+            <p n="4">4. Having inſight into this buſineſs, let us, out of pitie, bee readie to teach others, that need our help, and impart our knowledg unto them. It's an act of charitie to ſhew others the waie, they beeing ignorant of it, and to guide the blinde: thus is it with men naturally, they are blinde and ignorant in this buſineſs of amendment of waies; let us therefore charitably teach and guide them in it: This eſpe<g ref="char:EOLhyphen"/>cially
+<pb n="27" facs="tcp:117748:16"/> concern's us Miniſters in regard of the people, with whoſe ſouls wee are put in truſt; but it belong's alſo to you, that are parents and maſters, in reſpect of your chil<g ref="char:EOLhyphen"/>dren and ſervants, yea, to us all mutually: Having received the talent, hide it not in a napkin, but emploie it to the ad<g ref="char:EOLhyphen"/>vantage of our Lord and Maſter.<note place="margin">Matth. 25. v. 21, 23. v. 28, 30.</note> Remember that Parable of the Talents; ſee what reward God promiſes and aſſigne's to the faithful diſpenſers, and the dreadful ſentence againſt the unfaithful ſervant. Hear what the Apoſtle ſaie's, <hi>The manifestation of the ſpirit is given to every one to profit withall:</hi>
+               <note place="margin">1 Cor. 12.7.</note> wee ſhall not have the leſs by imparting to others; yea, wee ſhall have the more: It's a true ſaying, <hi>Docendo diſces; by teaching thou ſhalt learn: The talent taken from the unfaithful ſervant is given to him that had ten talents: for,</hi>
+               <note place="margin">Matth. 25.28. ver. 29.</note> 
+               <hi>to every one that hath, ſhall bee given.</hi> In all reſpects then bee perſuaded to im<g ref="char:EOLhyphen"/>part to others, for their benefit, the knowledg which in this, or any kinde God hath beſtowed upon you.</p>
+            <p>But, though it bee true, that of our ſelvs wee know not how to go about the cleanſing of our waie, yet</p>
+            <p>Propoſ. 8. <hi>God is readie to teach us, if wee have recourſ to him for advice.</hi> This is alſo plain in the Text: Yea, ſee how readily hee offer's himſelf in this kinde by the Pſal<g ref="char:EOLhyphen"/>miſt, <hi>Com, my children, hearken to mee,</hi>
+               <note place="margin">Pſal. 34.11.</note> 
+               <hi>and I will teach you the fear of the Lord.</hi> And this wee may argue, as our Saviour ar<g ref="char:EOLhyphen"/>gue's the like, <hi>What man is there of you,</hi>
+               <note place="margin">Matth. 7.9.</note> 
+               <hi>whom if his ſon ask's bread, will hee give him a ſtone? or, if hee ask's a fiſh, will hee give him a ſerpent? If then yee, beeing evil,</hi>
+               <note place="margin">10.11.</note> 
+               <hi>know how to give good things to your children, how much more ſhall your heavenlie Father give good things to them that ask him?</hi> So may the point in hand bee argued: what man is there, who ſhall give ſom buſineſs in Charge to bee don by his childe or ſervant, but hee will alſo bee readie to direct him how to do it, if his childe or ſervant ſhall crave his direction? If an earth<g ref="char:EOLhyphen"/>lie father will bee ſo readie to direct his childe or ſervant, how much more ſhall God bee readie to teach us, if wee ſeek to him for advice?</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>ſe</hi> 1. See and admire the goodneſs and infinite mer<g ref="char:EOLhyphen"/>cie of God: as if a father, having once ſet up his childe
+<pb n="28" facs="tcp:117748:17"/> in the world, and put a ſtock into his hand, and the ſon ha<g ref="char:EOLhyphen"/>ving by il husbandrie embezled it, hee ſhall again ſet him up, and give him a new ſtock, with which to trade; who will not admire the love of ſuch a father? This is the caſe here: God in Creätion gave us a ſtock, conſiſting in part of the knowledg of his will; but wee, by our fall in <hi>Adam,</hi> have forfeited this knowledg, and brought ignorance and blindneſs upon our ſelvs; yet hee is readie to give us di<g ref="char:EOLhyphen"/>rection, how to amend our lives, and cleanſ our waie, wee ſeeking to him for it: how great then is his mercie? Let us not fail, to give him the glorie due to his Name for ſuch mercie.</p>
+            <p n="2">2. Let us imitate our heavenlie Father, beeing readie to teach others, and to give them advice, eſpecially, if they, bee<g ref="char:EOLhyphen"/>ing ignorant, ſhall deſire our help. But of this before.</p>
+            <p n="3">3. Let this encourage us to ſeek to God for advice in this buſineſs of ſo great importance, as is the cleanſing of our waie. But of this alſo before.</p>
+            <p>Yea, God give's his anſwer and reſolution in this text, and ſet's down the means, which if yee will conſcionably uſe, yee ſhall finde this great work effected. For ſo it follow's.</p>
+            <p>Propoſ. 9. <hi>The waie whereby a young man, any young man, all young men, may cleanſ their waie, is to take heed thereto accord<g ref="char:EOLhyphen"/>ing to God's Word, to frame our life and converſation according to the Law of God, and juſt as Hee hath commanded.</hi> It's plain in the text, as the anſwer to the fore-going queſtion: And it further appear's:</p>
+            <p n="1">
+               <note place="margin">Pſal. 119.105.</note>1. The Word of God is <hi>a light unto our feet, and a lamp to our paths,</hi> ſo that it ſerv's, if wee take heed thereto, to ſhew us our waie, and to keep us from ſtumbling, as a Lanthorn or torch in a dark night.</p>
+            <p n="2">2. Whereas the begining of the cleanſing of our waie, the amendment of our lives, is the ſight of our ſins, this Word of God is a Glaſs, wherein wee may ſee what is amiſs in the courſ of our life, that ſo wee may amend it; as a Looking-glaſs diſcover's to us any ſpot in our faces, that wee may waſh it away: So S<hi rend="sup">t</hi> 
+               <hi>James</hi> reſemble's it, while hee ſaie's,<note place="margin">Jam. 1.24.</note> 
+               <hi>If any bee an hearer of the Word, and not a doer, hee is like
+<pb n="29" facs="tcp:117748:17"/> a man looking his face in a glaſs,</hi> &amp;c.<note place="margin">Rom. 3.20.</note> and ſo S<hi rend="sup">t</hi> 
+               <hi>Paul</hi> tell's us plainly, that <hi>by the law is the knowledg of ſin.</hi>
+            </p>
+            <p n="3">3. The Word of God is a Rule or Square, whereby wee may level or ſtreighten our waies.</p>
+            <p n="4">4. And, whereas our paſſage in this world is over hils and dales, God's Word is like a beacon ſtanding on an high hill, to give us direction in our journey; or (if on the ſea of this world) this law is our load-ſtar, yea, our Card or Com<g ref="char:EOLhyphen"/>paſs to guide us in our Navigation.</p>
+            <p n="5">5. Nay, if wee bee blinde, and conſequently ſubject to go aſtraie, to ſtumble and fall, this Word of God is, not one<g ref="char:EOLhyphen"/>ly a Staff, by the help of which to feel out the waie, but alſo Eie-ſalve to cure our blindeneſs, and recover our ſight: So ſaie's <hi>David, The Commandement of the Lord is pure, enlighte<g ref="char:EOLhyphen"/>ning the eies.</hi>
+               <note place="margin">Pſal. 19.8.</note>
+            </p>
+            <p n="6">6. In a word, this Word of God is a perfect word, every waie uſeful, as the Apoſtle ſaie's excellently, <hi>The whole Scripture is profitable, for doctrine, for reproof, for correction, for inſtruction in righteouſneſs.</hi>
+               <note place="margin">2 Tim. 3.16.</note>
+            </p>
+            <p n="1">1. Would'ſt thou know the will of God, and his truth? This Word will bee able to teach thee what thou ſhould'ſt do, and believ.</p>
+            <p n="2">2. Would'ſt thou redargue error? this Word of God wil perform it to thy hand. <hi>Verum eſt index ſui &amp; obliqui. Truth ſhewe's it ſelf, and it's contrarie.</hi> That is true, which is conſonant to the Word, therefore that which is diſſonant, is error and falſhood.</p>
+            <p n="3">3. Is any thing amiſs in thy life? God's Word will cor<g ref="char:EOLhyphen"/>rect it, by acquainting thee with the divine prohibition, by which it's forbidden, and the judgments of God threatned againſt, and executed upon men for doing ſuch things.</p>
+            <p n="4">4. Would'ſt thou do righteouſneſs? God's Word in<g ref="char:EOLhyphen"/>ſtruct's thee.</p>
+            <p n="5">5. Yea, in this waie of reforming thy life doeſt thou meet with diſcouragements? God's Word will comfort thee: ſo ſaie's the Apoſtle, <hi>through the comforts of the Scripture:</hi>
+               <note place="margin">Rom. 15.4. Iſai. 66.11.</note> theſe are <hi>the breſts of conſolation.</hi> There is not any thing by which thou maieſt bee diſcouraged in this buſineſs of the Refor<g ref="char:EOLhyphen"/>mation of thy waie (mocks, ſlanders, frowns or threatnings
+<pb n="30" facs="tcp:117748:18"/> of great men, loſs of goods by confiſcation, impriſonment, baniſhment, torments or death) but from this Word yee may gather grounds of comfort againſt the ſame, as the childe by ſucking draw's milk from his mothers breſts; as by enquirie yee may ſee in all the particulars: againſt perſe<g ref="char:EOLhyphen"/>cution and ſlanders hear our Saviour comforting us,<note place="margin">Matth. 5.10.</note> 
+               <hi>Bleſſed are they that ſuffer perſecution for righteouſneſs ſake: for theirs is the kingdom of Heaven.</hi>
+               <note place="margin">ver. 11.</note> 
+               <hi>Bleſſed are yee, when men ſhall revile and perſecute you, and ſpeak all manner of evil againſt you falſly for my Names ſake.</hi>
+               <note place="margin">ver. 12.</note> 
+               <hi>Rejoice and bee exceeding glad, for great is your re<g ref="char:EOLhyphen"/>ward in heaven, for ſo they perſecuted the Prophets, which were before you.</hi> Againſt the loſs of all for the teſtimonie of a good Conſcience,<note place="margin">Matth. 19.29.</note> hear what hee ſaie's by waie of comfort. <hi>Every one that ſhall forſake houſes, or brethren, or ſisters, or father, or mo<g ref="char:EOLhyphen"/>ther, or wife, or children, or lands, for my names ſake, ſhall receiv an hundred fold, and ſhall inherit everlaſting life.</hi> Againſt impri<g ref="char:EOLhyphen"/>ſonment hear that,<note place="margin">Rev. 2.10.</note> 
+               <hi>Fear none of the things which yee ſhall ſuffer, for the divel ſhall caſt ſom of you into priſon, that yee may bee tried, and yee ſhall have tribulation ten daies. Bee thou faithfull unto death, and I will give thee the crown of life.</hi> Againſt the frowns and threatnings of men hear that comfort.<note place="margin">Matth. 10.28.</note> 
+               <hi>Fear not them that kill the bodie, and are not able to kill the ſoul: are not two ſparrows ſold for a farthing?</hi>
+               <note place="margin">ver. 29.</note> 
+               <hi>and one of them ſhall not fall to the ground without your father.</hi>
+               <note place="margin">ver. 30.</note> 
+               <hi>But the very hairs of your head are numbered;</hi>
+               <note place="margin">ver. 31.</note> 
+               <hi>fear not therefore, yee are of more value then many ſparrows.</hi> Againſt the thankleſneſs of the world for the ſer<g ref="char:EOLhyphen"/>vice which yee do,<note place="margin">1 Cor. 15.58.</note> hear the Apoſtle, <hi>Knowing that your labor ſhall not bee in vain in the Lord.</hi> In a word, againſt all afflicti<g ref="char:EOLhyphen"/>ons, to the ſuffering of which ye may bee expoſed, hear that ground of comfort,<note place="margin">2 Cor. 4.17.</note> 
+               <hi>Our light afflictions, which are but for a moment,</hi>
+               <note place="margin">Rom. 8.17.</note> 
+               <hi>ſhall work for us a far more exceeding and eternal weight of glorie:</hi>
+               <note place="margin">ver. 18.</note> and that, <hi>If ſo bee that wee ſuffer with him,</hi> that is, with Chriſt, <hi>wee ſhall bee alſo glorified together: for I reckon, that all the afflictions of this preſent life are not worthie to bee compared with the glories that ſhall bee revealed in us.</hi> Thus is the Word of God able to animate us againſt all thoſe things, that may diſ<g ref="char:EOLhyphen"/>hearten us from the cleanſing of our waie, yea, thus is it every waie uſefull to help us in this buſineſs.</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>ſe</hi> 1. Let us bee thankful to God, for that hee hath given
+<pb n="31" facs="tcp:117748:18"/> us his Word ſo ſingularly uſeful in all kinds for the diſ<g ref="char:EOLhyphen"/>patch of ſo great a buſineſs, and ſo neceſſarie, as is the re<g ref="char:EOLhyphen"/>forming of our waies: A jewel it is of ſpecial price. <hi>David,</hi> in reſpect of that part of it, which was then written (which was the <hi>Pentateuch,</hi> the five books of <hi>Moſes</hi>) could yet raiſ up himſelf and others to the praiſing of God: <hi>Hee hath,</hi> ſaie's hee, <hi>ſhewed his Word unto Jacob,</hi>
+               <note place="margin">Pſal. 147.19.20.</note> 
+               <hi>his ſtatutes and his judgments unto Iſrael; Hee hath not dealt ſo with any nation, and as for his judgments, they have not known them,</hi> and thence hee in<g ref="char:EOLhyphen"/>fer's, <hi>Hallelu-jah, Praiſe yee the Lord:</hi> how much more have wee cauſ to bleſs the Name of our God, who hath given us the ſacred <hi>Canon</hi> perfect, not onely the books of <hi>Moſes,</hi> as the Text, but the writings of the Prophets, as a Comment there<g ref="char:EOLhyphen"/>on; nor onely the books of the Old Teſtament, which were the New Teſtament veiled, but alſo the books of the New Teſtament, which are the Old Teſtament reveiled? wee may much more ſaie, <hi>Non taliter fecit Deus omni populo: God hath not dealt ſo with other people:</hi> how many great nations are there in the world, to whom the Word of God hath not com? they for want of it ſit in darkneſs, and in the region of the ſhadow of death, but the light hath ſhined on us: they are as <hi>Egypt</hi> under that plague of darkneſs,<note place="margin">Exod. 10.22.23.</note> that might bee felt: wee, as the <hi>Iſraëlites in Goſhen,</hi> having light in their dwellings. S<hi rend="sup">t</hi> 
+               <hi>Paul</hi> moving the queſtion,<note place="margin">Rom. 3.1.</note> 
+               <hi>What is the prefer<g ref="char:EOLhyphen"/>ment of the Jews? what is the benefit of circumciſion?</hi> preſently return's anſwer, <hi>Verily, great every waie: ſpecially becauſ the Oracles of God were committed unto them:</hi>
+               <note place="margin">v. 2.</note> how great then is our preferment? What cauſ have wee then to bee thankful unto God?</p>
+            <p n="2">2. Let us all, and do yee, young men, make uſe of the Word of God for this bleſſed purpoſe, for the cleanſing of your waies: To this purpoſe (wee ſee) it's profitable: and for this end God hath afforded it to us: to this purpoſe then let us make uſe of it, that wee fruſtrate not God's exſpectation: and therefore</p>
+            <p n="1">1. That wee may ſee what hath been amiſs in our lives, let us frequently compare our ſelvs with the Word of God, and look our ſelvs in this Glaſs; bring wee our words, actions and thoughts to a privie ſearch hereby. It's the counſel of
+<pb n="32" facs="tcp:117748:19"/> the Prophet,<note place="margin">Lam. 3.40.</note> 
+               <hi>Let us ſearch and trie our waies, and turn again to the Lord:</hi> Repentance is neceſſarie, as that, without which it's impoſſible to bee ſaved:<note place="margin">Luke 13.3.</note> for ſo our Saviour ſaie's, <hi>Except yee repent, yee ſhall all likewiſe periſh:</hi> would yee not periſh? re<g ref="char:EOLhyphen"/>pent: but the ſearching of our waies is enjoined, as ſub<g ref="char:EOLhyphen"/>ſervient to the turning to the Lord, implying, that (as Sal<g ref="char:EOLhyphen"/>vation is not atteinable without repentance, ſo) repentance is impoſſible without ſearch of our waies:<note place="margin">Pſal. 119.59.</note> and the ſame is implied in that ſpeech of the Pſalmiſt, <hi>I conſidered my waies and turned my feet unto thy testimonies:</hi> Oh then neglect not this buſineſs of the ſearch of your waies. Call to minde the thoughts of your heart, the words of your mouth, the works of your hands: conſider them, whether they bee good or bad: and to this end, trie them by the touch-ſtone of the Word, weigh them in this ballance of the Sanctuarie, if yee finde them agreeable with this Word, or not contrarie to it, yee may conclude them to bee lawful and good: but if they bee contrarie to it, they are ſinful and damnable: this Word of God is a true and ſure Glaſs, that will repreſent things to us, as indeed they are, and will not deceiv us: If wee ſtand to the verdict of our own imagination, wee may bee deceived; <hi>There is a waie</hi> (ſaie's <hi>Solomon) that is right in a man's eies,</hi>
+               <note place="margin">Prov. 14.12.</note> 
+               <hi>but the end thereof are the waies of death.</hi> If wee ſtand to the verdict of men, wee may bee deceived: there are in the world flatte<g ref="char:EOLhyphen"/>ring ſycophants, that for a meals meat, having mens perſons in admiration, will call evil good, darkneſs light, bitter ſweet, praiſing thoſe things which will prove bitter in the end: and there are rigid cenſurers, who will call good evil, and light darkneſs, and ſweet bitter: But if wee ſtand to the judgment of the Word of God, wee cannot bee de<g ref="char:EOLhyphen"/>ceived, by the conſonancie of our words, thoughts, and actions with this Word, the goodneſs and rectitude of them will appear to our comfort, ſo that wee ſhall not need to re<g ref="char:EOLhyphen"/>gard the cenſures of men; and their diſſonancie from it will ſhew the pravitie and crokedneſs of them, and ſo wee ſhall bee ſtirred up and excited to humble our ſelvs before God for them, and to depart from them. As then yee love your ſelvs, and would bee ſet right in the judgment of your waies, bee perſuaded not to make your ſelvs, nor other men your judges;
+<pb n="33" facs="tcp:117748:19"/> but bring your ſelvs;<note place="margin">Rom. 3.20.</note> and your converſation to the trial of God's Word, <hi>by which come's the knowledg of ſin.</hi>
+            </p>
+            <p n="2">2. Do nothing raſhly, ſpeak nothing raſhly, think no<g ref="char:EOLhyphen"/>thing raſhly, but upon mature conſideration going before. This is a branch of that watchfulneſs, which the Scripture every where enjoine's. The Porters at great mens gates ſuffer not every one to enter that would but they firſt examine them, What are you? Whence are you? Whether tend you? otherwiſe they may bee in danger to entertein theeves and robbers in ſtead of friends. So let us bee circumſpect over our whole converſation: give not entertainment to every thought, that would enter and lodg within us; give not waie to every word, to every action: unſpeakable danger may, and cannot but iſſue upon it: but examine them firſt, what are you? good? or evil? whence are you? from God? or from Satan and corruption? whether tend you? to heaven? or to hell? to God's honor and my own comfort? or to the diſhonor of God, and my own horror? by this means yee ſhall prevent a world of miſchief. Oh therefore let this bee the care of us all. And to guide us in this examination, let us not ſtand upon humane judgment, our own, or of others: but bring all to the triall of God's Word, weigh all in this ballance, trie all by this touch-ſtone: and if they agree with it, wee may bee bold and confident to ſpeak ſuch words, to do ſuch actions, to entertein ſuch thoughts: whatſoever wee may ſuffer for it in the world at the hands of men, they are good, they are from God, they tend to Heaven, to God's honor, and our own Salvation: but if they bee contrarie to the Word of God, they are wicked, they are from the di<g ref="char:EOLhyphen"/>vel and corruption, they tend to hell, to God's diſhonor, and your own preſent diſcomfort, and your everlaſting perdition: venture not upon them though yee might thereby gain ten thouſand worlds. And thus taking heed to your conver<g ref="char:EOLhyphen"/>ſation according to God's Word, yee ſhall cleanſ or redreſs your waies.</p>
+            <p n="3">3. That wee may thus reap the benefit of God's Word for the cleanſing of our waie, let us exerciſe our ſelvs conſtantly in it, hear it read, and preached publickly, read it privately: how elſ ſhall yee bee able to make uſe of it, for ſearch of
+<pb n="34" facs="tcp:117748:20"/> your by-paſt courſes, for the trial of words, actions and thoughts for the future? Hearken wee therefore to our Sa<g ref="char:EOLhyphen"/>viour,<note place="margin">Joh. 5.39. Col. 3 16.</note> 
+               <hi>Search the Scriptures,</hi> and to S<hi rend="sup">t</hi> 
+               <hi>Paul, Let the Word of Chriſt dwell plentifully in you.</hi> This concern's not us onely, that are in the Miniſterie, but alſo all ordinarie Chriſtians: nor concern's it onely old men, that are readie to depart out of the world, but it belong's alſo to you, that are young men, for even to you alſo belong's the care to cleanſ your waie, to which this Word of God is ſubſervient, <hi>Timothie from a childe knew the ſcriptures.</hi>
+               <note place="margin">2 Tim. 3.15.</note> Put not off this ſtudie then either to other men, or to another time, but ſet your ſelvs to it, and even now: Conſider the opportunities that yee have: the Word of God is written, yea, it's printed, ſo that yee may compaſs it at an eaſie rate: and it's tranſlated into your mother-tongue, that ſo yee may know what yee read, nor is there danger in reading it, as ſomtimes it was to our Prede<g ref="char:EOLhyphen"/>ceſſors in this land, and is ſtil in thoſe Countries that lie un<g ref="char:EOLhyphen"/>der the <hi>Romane</hi> yoke. Nor are yee told, that it's unlawfull for you to do it, nay, yee are frequently taught, that it is a neceſſarie dutie, and frequently excited to it: oh, if, after all this, yee ſhall neglect this dutie, how ſhall yee anſwer it to God? how can it bee, but that yee ſhould finde that to bee true,<note place="margin">Job. 3.19.</note> which our Saviour ſaid, <hi>This is condemnation, that light is com into the world, and men love darkneſs rather then light:</hi> oh therefore bee yee perſuaded, both young and old, to lay hold upon the gracious opportunities, which God put's into your hands: what a ſad buſineſs will it bee, if by your neglect of this grace of God, yee ſhal move God, in diſpleaſure to bring ſuch times upon you, as in which yee would bee glad to read the Scriptures and may not? do it therefore, while yee may; let no daie paſs over your head without reading ſom part of it: this will bee a comfortable evidence to you, that yee are in the number of them that ſhall bee bleſſed: for ſo ſaie's the Pſalmiſt,<note place="margin">Pſal. 1.1.2.</note> 
+               <hi>Bleſſed is hee that delight's in the law of the Lord, and ex<g ref="char:EOLhyphen"/>erciſeth himſelf therein daie and night;</hi> yea, thus ſhall yee bee en<g ref="char:EOLhyphen"/>abled to the cleanſing of your waie, which yee have heard to bee a dutie, that ſo mainly concern's you.</p>
+            <p>Conſider what hath been ſaid, and the Lord give you un<g ref="char:EOLhyphen"/>derſtanding in all things.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:117748:20"/>
+         </div>
+      </body>
+   </text>
+</TEI>
